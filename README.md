@@ -16,6 +16,15 @@ We are not actively reviewing or merging pull requests, responding to or resolvi
 
 To install ngx-admin you have to use NodeJS version 14.14+ because of [node-sass](https://github.com/sass/node-sass) version utilized in the application.
 
+### Fede Instructions ⚠️
+- Install Git and Clone this Repo
+- Install NodeJS **14.21** (Not the newest)
+- Install VS Code (or any IDE of your choice)
+- Install project dependencies. In a 📟 type `npm install`
+- Start Main App server. In a 📟 type `npm start`
+
+Reference 📟 => Terminal
+
 ## Key features
 
 - The most popular and trusted Angular open source dashboard template is out there. Used by hundreds of thousands developers worldwide and Fortune 500 companies\*.
